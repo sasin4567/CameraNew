@@ -1,4 +1,4 @@
-package com.inthecheesefactory.lab.intent_fileprovider;
+package com.CameraFeature.lab.intent_fileprovider;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

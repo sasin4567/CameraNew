@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context="com.inthecheesefactory.lab.intent_fileprovider.MainActivity">
+    tools:context="com.CameraFeature.lab.intent_fileprovider.MainActivity">
 
     <Button
         android:id="@+id/btnTakePhoto"

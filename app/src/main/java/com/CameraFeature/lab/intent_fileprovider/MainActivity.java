@@ -1,9 +1,8 @@
-package com.inthecheesefactory.lab.intent_fileprovider;
+package com.CameraFeature.lab.intent_fileprovider;
 
 import android.Manifest;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.media.MediaScannerConnection;
 import android.net.Uri;
@@ -107,6 +106,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             try {
                 InputStream ims = new FileInputStream(file);
                 ivPreview.setImageBitmap(BitmapFactory.decodeStream(ims));
+                //CODE BELOW USE WITH VISION CLOUD
+               // Bitmap bitmap = BitmapFactory.decodeStream(ims);
             } catch (FileNotFoundException e) {
                 return;
             }

@@ -3,9 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\KiD\Android\Lab-Intent-FileProvider-master\Lab-Intent-FileProvider.iml" filepath="C:\KiD\Android\Lab-Intent-FileProvider-master\Lab-Intent-FileProvider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab-Intent-FileProvider-master.iml" filepath="$PROJECT_DIR$/Lab-Intent-FileProvider-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\KiD\Android\Lab-Intent-FileProvider-master\app\app.iml" filepath="C:\KiD\Android\Lab-Intent-FileProvider-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/use1 Lab-Intent-FileProvider-master.iml" filepath="$PROJECT_DIR$/use1 Lab-Intent-FileProvider-master.iml" />
     </modules>
   </component>
 </project>
